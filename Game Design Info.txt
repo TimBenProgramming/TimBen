@@ -1,0 +1,71 @@
+Game Concept,
+
+Small scale RPG base
+Different Items or gain
+Kill shit
+find shit
+One Main quest
+gather and build during day,
+night time, kill shit
+simple Fantasy themed
+
+Game Rules,
+
+
+start with basic items
+lose all hp you die.
+
+
+Game Requirements
+
+Movement System
+Attack System
+Hp System
+Day Night Cycle
+Spawn system
+Ai System
+Pick up able Items,
+Inventory
+Craftable Items
+craftable buildings
+Equipment system
+Mission System
+Sounds and effects
+
+
+
+
+
+World
+
+Concept
+Landscape 
+Day Night Cycle
+Water(Optional)
+
+Player
+
+Skeletal Mesh w/ Third Person Camera
+Movement System
+Basic Attack System
+Basic Controls
+
+Enemies
+
+Static mesh for now
+Ai System
+Basic Hp system
+
+UI
+
+Basic Inventory
+Mini Map
+Main Menu
+HP Bar
+
+Effects and Audio
+
+Map Effects
+Player Effects
+Audio
+
